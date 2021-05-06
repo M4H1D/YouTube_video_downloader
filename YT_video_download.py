@@ -90,7 +90,7 @@ downloadbtn.grid()
 developerlabel = Label(root,text='''                                     
   
    
-    ☞POWERED by Mahidul Islam.
+    ☞DEVELOPED by Mahidul Islam.
      ©Boro Vai,2021''',font=("jost",5))
 developerlabel.grid()
 root.mainloop()
